@@ -19,20 +19,35 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Vinod Gupta
-email: vg@vinodgupta.org
-description: >- # this means to ignore newlines until "baseurl:"
-  Builder | Speaker | Leader
+author:
+  name: Vinod Gupta
+  email: vg@vinodgupta.org
+description: Builder | Speaker | Leader
 baseurl: /
 url: https://vinodgupta.org
 domain: vinodgupta.org
-twitter_username: codervinod
-github_username:  codervinod
 
+minima:
+  skin: classic
+  social_links:
+    linkedin: codervinod
+    twitter: codervinod
+    github:  codervinod
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
+
+header_pages:
+  - experience.markdown
+  - awards.markdown
+  - patents.markdown
+  - posts.markdown
+
 plugins:
   - jekyll-feed
+
+# Google Analytics
+google_analytics: G-J4HLBSFV81
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -4,8 +4,21 @@ title: Experience
 permalink: /experience/
 ---
 
-# RapidFort, Inc. – San Jose, CA
-<i> May 2021 - Present </i>
+## Summary
+
+| Company   | Position | Duration  |
+| --------     | ----- |  ----- |
+| [RapidFort, Inc.](#rf)    | Sr. Director of Engineering | Jan 2021 - Present      |
+| [Bolt, Inc.](#bolt)       | Staff Security Engineer | Dec 2021 - May 2021      |
+| [Apple, Inc.](#apple)     | Software Engineer (ICT-5) | Aug 2020 – Dec 2021      |
+| [Nutanix, Inc.](#nutanix) | Staff Software Engineer | April 2016 – Aug 2020      |
+| [Nextdoor.com, Inc.](#nextdoor) | Senior Software Engineer | Jan 2016 - April 2016    |
+| [EFI, Inc.](#efi-us) | Senior Staff Software Engineer  | May 2011 - Jan 2016       |
+| [EFI India Pvt. Ltd.](#efi-india) | Team Leader |  June 2005 - May 2011     |
+
+<a name="rf"></a>
+# [RapidFort, Inc.](https://rapidfort.com) – San Jose, CA
+<i> Jan 2021 - Present </i>
 
 #### Sr. Director of Engineering
 <i> May 2021 </i>
@@ -22,7 +35,8 @@ permalink: /experience/
 * Provide advise to CTO office on product strategy.
 * Help with PLG effort and open source contributions.
 
-# Bolt Financial, Inc. – San Francisco, CA
+<a name="bolt"></a>
+# [Bolt Financial, Inc.](https://bolt.com) – San Francisco, CA
 <i> Dec 2021 - May 2021 </i>
 
 #### Staff Security Engineer – Trust and Safety
@@ -34,7 +48,8 @@ permalink: /experience/
 ##### Selected contributions:
 * Building Trust and Safety organization from ground up, defining long term strategy, short term deliverables, road map and hiring plan.
 
-# Apple, Inc. – Cupertino, CA
+<a name="apple"></a>
+# [Apple, Inc.](https://apple.com) – Cupertino, CA
 <i> Aug 2020 – Dec 2021 </i>
 
 #### Software Engineer (ICT-5) – Trust and Safety
@@ -47,7 +62,8 @@ permalink: /experience/
 * Lead cross functional team of 25+ engineers, machine learning engineers, automation engineers, service reliability engineering which is responsible for making infrastructure seamless for ML engineering team. Provide weekly updates to senior management and coordinate work amongst 7 managers.
 * Spearhead organizational transformation from Scala based Machine Learning Platform stack to Python based stack; Project Lead for delivering Python based framework to fight fraud on Apple platforms
 
-# Nutanix, Inc. – San Jose CA
+<a name="nutanix"></a>
+# [Nutanix, Inc.](https://nutanix.com) – San Jose CA
 <i> April 2016 – Aug 2020 </i>
 
 #### Staff Software Engineer – Identity and Access Management – Xi Cloud Services
@@ -72,8 +88,9 @@ Spearheaded change management for use of Postgres DB instead of home-grown DB fo
 * Expanded team from 3 engineers to 10 engineers in San Jose and 3 engineers in Bengaluru in 1 year
 * Delivered Control Plane for Xi cloud services with 3 9’s SLA at launch
 
-# Nextdoor.com, Inc. – San Francisco, CA
-<i> Jan 2016-April 2016 </i>
+<a name="nextdoor"></a>
+# [Nextdoor.com, Inc.](https://nextdoor.com) – San Francisco, CA
+<i> Jan 2016 - April 2016 </i>
 
 #### Senior Software Engineer – Community Support Engineering
 
@@ -82,8 +99,9 @@ Spearheaded change management for use of Postgres DB instead of home-grown DB fo
 * Lead development of product features to reduce support cost for the platform. Selected contributions:
 * Develop architecture to power core engine to reduce racial profiling on the platform. System classified a post as racial profiling and directed end user to specific questions to reduce bias.
 
-# Electronics For Imaging, Inc. - Fremont, CA
-<i> May 2011-Jan 2016 </i>
+<a name="efi-us"></a>
+# [Electronics For Imaging, Inc.](https://efi.com) - Fremont, CA
+<i> May 2011 - Jan 2016 </i>
 
 ####  Promoted to Senior Staff Software Engineer - Fiery server development
 <i> April 2014 </i>
@@ -115,8 +133,9 @@ Spearheaded change management for use of Postgres DB instead of home-grown DB fo
 * Developed simulation framework for print press testing resulting in 40% reduction in testing cost due to no paper printing required, reduced time to market from 1 year to 6 months by developing and testing Fiery server software with simulated press instead of prototype machines.
 * Work with CTO office and other software architects to prototype Fiery server software for Inkjet market resulting in opening of entire new business line for Fiery business group.
 
-# Electronics For Imaging India Pvt Ltd. - Bengaluru, India
-<i> June 2005-May 2011 </i>
+<a name="efi-india"></a>
+# [Electronics For Imaging India Pvt Ltd.](https://efi.com) - Bengaluru, India
+<i> June 2005 - May 2011 </i>
 
 ####  Promoted to Team Leader – Fiery server development
 <i> April 2009 </i>
