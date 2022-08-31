@@ -8,8 +8,8 @@ permalink: /experience/
 
 | Company   | Position | Duration  |
 | --------     | ----- |  ----- |
-| [RapidFort, Inc.](#rf)    | Sr. Director of Engineering | Jan 2021 - Present      |
-| [Bolt, Inc.](#bolt)       | Staff Security Engineer | Dec 2021 - May 2021      |
+| [RapidFort, Inc.](#rf)    | Sr. Director of Engineering | Jan 2022 - Present      |
+| [Bolt, Inc.](#bolt)       | Staff Security Engineer | Dec 2021 - May 2022      |
 | [Apple, Inc.](#apple)     | Software Engineer (ICT-5) | Aug 2020 – Dec 2021      |
 | [Nutanix, Inc.](#nutanix) | Staff Software Engineer | April 2016 – Aug 2020      |
 | [Nextdoor.com, Inc.](#nextdoor) | Senior Software Engineer | Jan 2016 - April 2016    |
@@ -18,10 +18,10 @@ permalink: /experience/
 
 <a name="rf"></a>
 # [RapidFort, Inc.](https://rapidfort.com) – San Jose, CA
-<i> Jan 2021 - Present </i>
+<i> Jan 2022 - Present </i>
 
 #### Sr. Director of Engineering
-<i> May 2021 </i>
+<i> May 2022 </i>
 
 ##### Responsibilities include:
 * Lead Product Led Growth efforts for RapidFort software attack surface management platform.
@@ -29,7 +29,7 @@ permalink: /experience/
 * Work closely with customers, engineers and C-suite team to establish Product Market Fit.
 
 #### Technical Advisor
-<i> Jan 2021 </i>
+<i> Jan 2022 </i>
 
 ##### Responsibilities include:
 * Provide advise to CTO office on product strategy.
@@ -37,7 +37,7 @@ permalink: /experience/
 
 <a name="bolt"></a>
 # [Bolt Financial, Inc.](https://bolt.com) – San Francisco, CA
-<i> Dec 2021 - May 2021 </i>
+<i> Dec 2021 - May 2022 </i>
 
 #### Staff Security Engineer – Trust and Safety
 
