@@ -4,7 +4,7 @@ title: Patents
 permalink: /patents/
 ---
 
-* Application curation, Issued Mar 9, 2021 [US 10942836](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=10942836&OS=10942836&RS=10942836)
+* Application curation, Issued Mar 9, 2021 [US 10942836](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=10942836.PN.&OS=PN/10942836&RS=PN/10942836)
 
 * Substituting callback urls when using oauth protocol exchanges, Issued Nov 17, 2020 [US 10841313](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=10841313.PN.&OS=PN/10841313&RS=PN/10841313)
 
