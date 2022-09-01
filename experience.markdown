@@ -3,8 +3,10 @@ layout: page
 title: Experience
 permalink: /experience/
 ---
+[Download Resume](/assets/downloads/Resume_Vinod_Gupta.pdf){: .right}
 
 ## Summary
+
 
 | Company   | Position | Duration  |
 | --------     | ----- |  ----- |
