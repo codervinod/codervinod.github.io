@@ -41,6 +41,7 @@ header_pages:
   - experience.markdown
   - awards.markdown
   - patents.markdown
+  - talks.markdown
   - posts.markdown
 
 plugins:
