@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Welcome"
-date:   2022-08-28 14:01:04 -0700
-categories: jekyll update
----
-
-Welcome to my personal space !!
